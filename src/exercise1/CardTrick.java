@@ -79,22 +79,22 @@ public class CardTrick {
      */
     private static void printInfo() {
     
-        System.out.println("Congratulations");
+        System.out.println("Congratulations, you guessed correctly!");
         System.out.println();
         
-        System.out.println("Some default stuff");
+        System.out.println("Hi, I'm Michael Sousa. I work at EC Drury and attend Sheridan College!");
         System.out.println();
         
         System.out.println("My career ambitions:");
-        System.out.println("-- Sit around");
-        System.out.println("-- Do nothing");
+        System.out.println("-- Get degree");
+        System.out.println("-- Make money");
 	System.out.println();	
 
         System.out.println("My hobbies:");
-        System.out.println("-- Stuff");
-        System.out.println("-- Running");
-        System.out.println("-- Blank");
-        System.out.println("-- Riding my lawnmower");
+        System.out.println("-- Video Games");
+        System.out.println("-- Exercise");
+        System.out.println("-- TV/Movies");
+        System.out.println("-- Riding my biker");
 
         System.out.println();
         
